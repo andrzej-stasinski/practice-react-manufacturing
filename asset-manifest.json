@@ -1,0 +1,17 @@
+{
+  "files": {
+    "main.js": "/practice-react-testing/static/js/main.e2439e97.chunk.js",
+    "main.js.map": "/practice-react-testing/static/js/main.e2439e97.chunk.js.map",
+    "runtime-main.js": "/practice-react-testing/static/js/runtime-main.147a11b3.js",
+    "runtime-main.js.map": "/practice-react-testing/static/js/runtime-main.147a11b3.js.map",
+    "static/js/2.95e1ce62.chunk.js": "/practice-react-testing/static/js/2.95e1ce62.chunk.js",
+    "static/js/2.95e1ce62.chunk.js.map": "/practice-react-testing/static/js/2.95e1ce62.chunk.js.map",
+    "index.html": "/practice-react-testing/index.html",
+    "static/js/2.95e1ce62.chunk.js.LICENSE.txt": "/practice-react-testing/static/js/2.95e1ce62.chunk.js.LICENSE.txt"
+  },
+  "entrypoints": [
+    "static/js/runtime-main.147a11b3.js",
+    "static/js/2.95e1ce62.chunk.js",
+    "static/js/main.e2439e97.chunk.js"
+  ]
+}
