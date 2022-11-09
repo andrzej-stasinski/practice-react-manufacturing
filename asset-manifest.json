@@ -1,10 +1,10 @@
 {
   "files": {
-    "main.js": "/practice-react-manufacturing/static/js/main.b4273ea6.js",
-    "index.html": "/practice-react-manufacturing/index.html",
-    "main.b4273ea6.js.map": "/practice-react-manufacturing/static/js/main.b4273ea6.js.map"
+    "main.js": "./static/js/main.ba1d6457.js",
+    "index.html": "./index.html",
+    "main.ba1d6457.js.map": "./static/js/main.ba1d6457.js.map"
   },
   "entrypoints": [
-    "static/js/main.b4273ea6.js"
+    "static/js/main.ba1d6457.js"
   ]
 }
